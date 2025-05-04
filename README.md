@@ -2,9 +2,6 @@
 
 A responsive, modern front-end UI for **Cloudix**, a fictional cloud storage platform, built using **React + Vite** with SCSS styling.
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://vitejs.dev)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## 🔧 Features
 
 - Responsive login page with email/password and Google login button
@@ -63,4 +60,4 @@ npm run build
 ## 👤 Author
 
 **Darshana Prabath**  
-GitHub: [darshana](https://github.com/Darshana75) 
+GitHub: (https://github.com/Darshana75) 
