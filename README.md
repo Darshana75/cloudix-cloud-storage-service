@@ -60,4 +60,4 @@ npm run build
 ## 👤 Author
 
 **Darshana Prabath**  
-GitHub: (https://github.com/Darshana75) 
+GitHub: https://github.com/Darshana75 
